@@ -1,3 +1,4 @@
+importScripts('https://arc.io/arc-sw-core.js')
 importScripts('/m/bundle.js');
 importScripts('/m/config.js');
 
